@@ -1,7 +1,9 @@
 # Magic-Squares
 Problem Description
 Write a C++ program that creates four(4) diﬀerent N*N magic squares. A square matrix is the arrangement of the numbers 1, 2, ..., N2, in which the sum of rows, columns, and diagonals are the same. The users (i.e., TAs) will specify the size of the square matrix: N. The value N must be an odd number between 3 and 15.
+
 Example Run
+
 For example, you program is expected to run in the following way:
 INPUT>> Enter the size of a magic square: 3
 OUTPUT>> Magic Square #1 is:
