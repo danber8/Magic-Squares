@@ -5,8 +5,11 @@ Write a C++ program that creates four(4) diﬀerent N*N magic squares. A square 
 Example Run
 
 For example, you program is expected to run in the following way:
+
 INPUT>> Enter the size of a magic square: 3
+
 OUTPUT>> Magic Square #1 is:
+
 2 7 6 9 5 1 4 3 8
 OUTPUT>> Checking the sums of every row: 15 15 15 OUTPUT>> Checking the sums of every column: 15 15 15 OUTPUT>> Checking the sums of every diagnoal: 15 15
 OUTPUT>> Magic Square #2 is:
