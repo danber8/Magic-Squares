@@ -10,14 +10,44 @@ INPUT>> Enter the size of a magic square: 3
 
 OUTPUT>> Magic Square #1 is:
 
-2 7 6 9 5 1 4 3 8
+2 7 6 
+9 5 1 
+4 3 8
+
 OUTPUT>> Checking the sums of every row: 15 15 15 OUTPUT>> Checking the sums of every column: 15 15 15 OUTPUT>> Checking the sums of every diagnoal: 15 15
+
 OUTPUT>> Magic Square #2 is:
-8 3 4 1 5 9 6 7 2
-OUTPUT>> Checking the sums of every row: 15 15 15 OUTPUT>> Checking the sums of every column: 15 15 15 OUTPUT>> Checking the sums of every diagnoal: 15 15
+
+8 3 4 
+1 5 9 
+6 7 2
+
+OUTPUT>> Checking the sums of every row: 15 15 15 
+
+OUTPUT>> Checking the sums of every column: 15 15 15 
+
+OUTPUT>> Checking the sums of every diagnoal: 15 15
+
 OUTPUT>> Magic Square #3 is:
-8 1 6 3 5 7 4 9 2
-OUTPUT>> Checking the sums of every row: 15 15 15 OUTPUT>> Checking the sums of every column: 15 15 15 OUTPUT>> Checking the sums of every diagnoal: 15 15
+
+8 1 6 
+3 5 7 
+4 9 2
+
+OUTPUT>> Checking the sums of every row: 15 15 15 
+
+OUTPUT>> Checking the sums of every column: 15 15 15 
+
+OUTPUT>> Checking the sums of every diagnoal: 15 15
+
 OUTPUT>> Magic Square #4 is:
-2 9 4 7 5 3 6 1 8
-OUTPUT>> Checking the sums of every row: 15 15 15 OUTPUT>> Checking the sums of every column: 15 15 15 OUTPUT>> Checking the sums of every diagnoal: 15 1
+
+2 9 4 
+7 5 3 
+6 1 8
+
+OUTPUT>> Checking the sums of every row: 15 15 15 
+
+OUTPUT>> Checking the sums of every column: 15 15 15 
+
+OUTPUT>> Checking the sums of every diagnoal: 15 15
